@@ -112,3 +112,8 @@ Evaluation Criteria
     UI/UX: The app is visually appealing and easy to use, with proper handling of edge cases (e.g., empty task list).
     Performance: The app is performant and free of major bugs or crashes.
     Bonus Features: Dark mode, task search, and motivational quotes integration are included.
+
+    Try It Out
+
+You can also try out the app in an interactive environment using Expo Snack.
+https://snack.expo.dev/nqC6xYsGSxRj5OFN7N3qe
